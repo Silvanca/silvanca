@@ -1,5 +1,5 @@
 # 💫 About Me:
--  Learning software development and computer science<br>-  Exploring new technologies and programming languages<br>-  Building projects to improve my skills<br>-  Aiming to become a better developer every day
+<br>-  Learning software development and computer science<br>-  Exploring new technologies and programming languages<br>-  Building projects to improve my skills<br>-  Aiming to become a better developer every day
 
 
 # 💻 Tech Stack:
